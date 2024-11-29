@@ -7,5 +7,6 @@
   </head>
   <body>
     <h1>Hello World</h1>
-  </body>
+    <p> mencoba kasus 2 </p>
+</body>
 </html>
