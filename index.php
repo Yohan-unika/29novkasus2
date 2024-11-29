@@ -8,5 +8,6 @@
   <body>
     <h1>Hello World</h1>
     <p> mencoba kasus 2 </p>
+    <p>lorem ipsum</p>
 </body>
 </html>
